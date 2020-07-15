@@ -59,9 +59,12 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/j2y18lte/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
 	vendor/samsung/j2y18lte/proprietary/lib/libbt-codec_aptx.so:system/lib/libbt-codec_aptx.so \
 	vendor/samsung/j2y18lte/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
+	vendor/samsung/j2y18lte/proprietary/vendor/bin/LKCore:system/vendor/bin/LKCore \
+
 	vendor/samsung/j2y18lte/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
 	vendor/samsung/j2y18lte/proprietary/vendor/bin/chamomile_provision:system/vendor/bin/chamomile_provision \
 	vendor/samsung/j2y18lte/proprietary/vendor/bin/hbtp_daemon:system/vendor/bin/hbtp_daemon \
+	vendor/samsung/j2y18lte/proprietary/vendor/bin/mm-qomx-idec-test:system/vendor/bin/mm-qomx-idec-test \
 	vendor/samsung/j2y18lte/proprietary/vendor/bin/mm-pp-dpps:system/vendor/bin/mm-pp-dpps \
 	vendor/samsung/j2y18lte/proprietary/vendor/bin/mm-qjpeg-dec-test:system/vendor/bin/mm-qjpeg-dec-test \
 	vendor/samsung/j2y18lte/proprietary/vendor/bin/mm-qjpeg-enc-test:system/vendor/bin/mm-qjpeg-enc-test \
